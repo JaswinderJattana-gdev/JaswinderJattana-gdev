@@ -75,9 +75,7 @@ A lightweight engine built from scratch using **C++ and SDL2**.
 
 ---
 
-## 📫 Connect With Me
 
-- LinkedIn: []
 
 
 
