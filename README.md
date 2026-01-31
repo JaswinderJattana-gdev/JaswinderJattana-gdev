@@ -12,7 +12,7 @@ I’m a CS student focused on **game development and engine programming**.
 I enjoy building systems from scratch — rendering pipelines, input handling, scene management, and gameplay mechanics — along with using pre-built engines.
 
 Currently working on:
-- Custom **C++ 2D Game Engine**
+- Custom **C++ 2D Game Engine** and **Lite Level Editor**
 - Gameplay systems & rendering pipelines
 - Strengthening data structures, math, and performance optimization
 
