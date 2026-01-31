@@ -58,8 +58,8 @@ A lightweight engine built from scratch using **C++ and SDL2**.
 - Debug overlay & HUD
 - Portable release build
 
-🎥 Demo: []  
-📁 Repo: []
+🎥 Demo: [https://github.com/JaswinderJattana-gdev/MiniEngineSDL2/tree/main/media]  
+📁 Repo: [https://github.com/JaswinderJattana-gdev/MiniEngineSDL2]
 
 ---
 
